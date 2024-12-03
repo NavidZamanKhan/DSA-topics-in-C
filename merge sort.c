@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 
 // Function to merge two subarrays
 void merge(int arr[], int left, int mid, int right)
